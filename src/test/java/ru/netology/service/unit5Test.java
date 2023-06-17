@@ -1,5 +1,7 @@
 package ru.netology.service;
 
+import org.junit.jupiter.api.Test;
+
 public class unit5Test {
     CashbackHackService service = new CashbackHackService();
 
