@@ -1,10 +1,6 @@
 package ru.netology.service;
 
-import org.junit.Test;
-
-import static org.junit.jupiter.api.Assertions.assertEquals;
-
-public class CashbackHackServiceTest {
+public class unit5Test {
     CashbackHackService service = new CashbackHackService();
 
     @org.junit.Test
